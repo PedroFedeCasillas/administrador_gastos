@@ -1,1 +1,1 @@
-# App-Administraci-n
+# Administrador de gastos
